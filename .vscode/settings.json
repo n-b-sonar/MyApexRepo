@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "serverId": "my_orga_in_sonarcloud.io",
+        "projectKey": "sales"
+      }
+}
