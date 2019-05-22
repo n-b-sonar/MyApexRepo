@@ -27,7 +27,6 @@ global with sharing class EinsteinVisionController {
         keyContents = keyContents.replace('-----END RSA PRIVATE KEY-----', '');
         keyContents = keyContents.replace('\n', '');
         keyContents = keyContents.replace('\n', '');
-        keyContents = keyContents.replace('\n', '');
 
         // Get a new token
         JWT jwt = new JWT('RS256');
