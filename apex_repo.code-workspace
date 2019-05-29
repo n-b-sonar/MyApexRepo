@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sonarlint.connectedMode.project": {
+			"serverId": "my_orga_in_sonarcloud.io",
+			"projectKey": "n-b-sonar_MyApexRepo"
+		}
+	}
+}
